@@ -1,0 +1,7 @@
+{
+    "broker": "mqtt://broker.emqx.io",
+    "port": 1883,
+    "topic": "esp32/wifi_demo/data",
+    "username": "",
+    "password": ""
+}
