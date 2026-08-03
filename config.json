@@ -1,2 +1,7 @@
 {
-    "broker": "
+    "broker": "mqtt://broker.emqx.io",
+    "port": 1883,
+    "topic": "esp32/http_config",
+    "username": "",
+    "password": ""
+}
