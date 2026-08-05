@@ -1,6 +1,7 @@
 {
     "broker": "mqtt://broker.emqx.io",
-    "port": 1883,
+    "port": 8883,
+    "tls": true,
     "topic": "esp32/http_config",
     "username": "",
     "password": ""
